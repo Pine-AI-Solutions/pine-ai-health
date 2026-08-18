@@ -6,8 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>HealthCheckService</RootNamespace>
     <AssemblyName>HealthCheckService</AssemblyName>
-    <InvariantGlobalization>true</InvariantGlobalization>
-   
+    <InvariantGlobalization>false</InvariantGlobalization>
   </PropertyGroup>
 
   <ItemGroup>
